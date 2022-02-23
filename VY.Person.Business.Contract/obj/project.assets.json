@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "VY.Person.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/VY.Person.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.Person.Dtos.dll": {}
+        }
+      },
+      "VY.Person.Infraestructure.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/VY.Person.Infraestructure.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.Person.Infraestructure.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VY.Person.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../VY.Person.Dtos/VY.Person.Dtos.csproj",
+      "msbuildProject": "../VY.Person.Dtos/VY.Person.Dtos.csproj"
+    },
+    "VY.Person.Infraestructure.Contract/1.0.0": {
+      "type": "project",
+      "path": "../VY.Person.Infraestructure.Contract/VY.Person.Infraestructure.Contract.csproj",
+      "msbuildProject": "../VY.Person.Infraestructure.Contract/VY.Person.Infraestructure.Contract.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "VY.Person.Dtos >= 1.0.0",
+      "VY.Person.Infraestructure.Contract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Andres\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj",
+      "projectName": "VY.Person.Business.Contract",
+      "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj",
+      "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj": {
+              "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj"
+            },
+            "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj": {
+              "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\bin\Debug\net5.0\VY.Person.Infraestructure.Contract.deps.json
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\bin\Debug\net5.0\VY.Person.Infraestructure.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\bin\Debug\net5.0\ref\VY.Person.Infraestructure.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\bin\Debug\net5.0\VY.Person.Infraestructure.Contract.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\VY.Person.Infraestructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\VY.Person.Infraestructure.Contract.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\VY.Person.Infraestructure.Contract.AssemblyInfo.cs
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\VY.Person.Infraestructure.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\VY.Person.Infraestructure.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\ref\VY.Person.Infraestructure.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Infraestructure.Contract\obj\Debug\net5.0\VY.Person.Infraestructure.Contract.pdb

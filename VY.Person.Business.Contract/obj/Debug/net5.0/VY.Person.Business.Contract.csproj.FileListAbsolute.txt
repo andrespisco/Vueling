@@ -1,0 +1,17 @@
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Business.Contract.deps.json
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Business.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\ref\VY.Person.Business.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Business.Contract.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Dtos.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Infraestructure.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Dtos.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\bin\Debug\net5.0\VY.Person.Infraestructure.Contract.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.AssemblyInfo.cs
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.csproj.CopyComplete
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\ref\VY.Person.Business.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Business.Contract\obj\Debug\net5.0\VY.Person.Business.Contract.pdb

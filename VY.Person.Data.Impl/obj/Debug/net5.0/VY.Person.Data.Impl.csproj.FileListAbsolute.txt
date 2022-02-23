@@ -1,0 +1,15 @@
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\bin\Debug\net5.0\VY.Person.Data.Impl.deps.json
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\bin\Debug\net5.0\VY.Person.Data.Impl.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\bin\Debug\net5.0\ref\VY.Person.Data.Impl.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\bin\Debug\net5.0\VY.Person.Data.Impl.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\bin\Debug\net5.0\VY.Person.Data.Contract.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\bin\Debug\net5.0\VY.Person.Data.Contract.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.AssemblyInfo.cs
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.csproj.CopyComplete
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\ref\VY.Person.Data.Impl.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Data.Impl\obj\Debug\net5.0\VY.Person.Data.Impl.pdb

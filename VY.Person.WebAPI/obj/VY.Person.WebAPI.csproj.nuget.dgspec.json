@@ -1,0 +1,470 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.WebAPI\\VY.Person.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj",
+        "projectName": "VY.Person.Business.Contract",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj"
+              },
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Impl\\VY.Person.Business.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Impl\\VY.Person.Business.Impl.csproj",
+        "projectName": "VY.Person.Business.Impl",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Impl\\VY.Person.Business.Impl.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Contract\\VY.Person.Business.Contract.csproj"
+              },
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj"
+              },
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Impl\\VY.Person.Data.Impl.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Impl\\VY.Person.Data.Impl.csproj"
+              },
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj"
+              },
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj",
+        "projectName": "VY.Person.Data.Contract",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Impl\\VY.Person.Data.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Impl\\VY.Person.Data.Impl.csproj",
+        "projectName": "VY.Person.Data.Impl",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Impl\\VY.Person.Data.Impl.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Data.Contract\\VY.Person.Data.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj",
+        "projectName": "VY.Person.Dtos",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\VY.Person.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj",
+        "projectName": "VY.Person.Infraestructure.Contract",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\VY.Person.Infraestructure.Contract.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Infraestructure.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.WebAPI\\VY.Person.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.WebAPI\\VY.Person.WebAPI.csproj",
+        "projectName": "VY.Person.WebAPI",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.WebAPI\\VY.Person.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Impl\\VY.Person.Business.Impl.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\VY.Person\\VY.Person.Business.Impl\\VY.Person.Business.Impl.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

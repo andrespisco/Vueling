@@ -1,0 +1,11 @@
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\bin\Debug\net5.0\VY.Person.Dtos.deps.json
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\bin\Debug\net5.0\VY.Person.Dtos.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\bin\Debug\net5.0\ref\VY.Person.Dtos.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\bin\Debug\net5.0\VY.Person.Dtos.pdb
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\VY.Person.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\VY.Person.Dtos.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\VY.Person.Dtos.AssemblyInfo.cs
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\VY.Person.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\VY.Person.Dtos.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\ref\VY.Person.Dtos.dll
+C:\Users\Andres\source\repos\VY.Person\VY.Person.Dtos\obj\Debug\net5.0\VY.Person.Dtos.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VY.Person.Dtos\VY.Person.Dtos.csproj" />
+    <ProjectReference Include="..\VY.Person.Infraestructure.Contract\VY.Person.Infraestructure.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

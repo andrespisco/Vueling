@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VY.Person.Business.Contract\VY.Person.Business.Contract.csproj" />
+    <ProjectReference Include="..\VY.Person.Data.Contract\VY.Person.Data.Contract.csproj" />
+    <ProjectReference Include="..\VY.Person.Data.Impl\VY.Person.Data.Impl.csproj" />
+    <ProjectReference Include="..\VY.Person.Dtos\VY.Person.Dtos.csproj" />
+    <ProjectReference Include="..\VY.Person.Infraestructure.Contract\VY.Person.Infraestructure.Contract.csproj" />
+  </ItemGroup>
+
+</Project>
